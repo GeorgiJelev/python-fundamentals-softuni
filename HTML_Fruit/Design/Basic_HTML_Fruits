@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Welcome</title>
+</head>
+
+
+<h1>
+    <strong> Fruits <strong>
+</h1>
+<h2>
+    <img src= "banana.png" alt="banana" height="100" width="130"/>
+    <img src="orange.png" alt="orange" height="100" width="130">
+    <img src="kiwi.png" alt="kiwi" height="100" width="130">
+    <img src="kiwi.png" alt="kiwi" height="100" width="130">
+    <img src="apple.png" alt="apple" height="100" width="130">
+</h2> 
+<h3>
+    <img src= "apple.png" alt="apple" height="100" width="130"/>
+    <img src="apple.png" alt="apple" height="100" width="130">
+    <img src="banana.png" alt="banana" height="100" width="130">
+    <img src="kiwi.png" alt="kiwi" height="100" width="130">
+    <img src="orange.png" alt="orange" height="100" width="130">
+    
+</h3>
+<h4>
+    <img src= "orange.png" alt="orange" height="100" width="130"/>
+    <img src="banana.png" alt="banana" height="100" width="130">
+    <img src="orange.png" alt="orange" height="100" width="130">
+    <img src="orange.png" alt="orange" height="100" width="130">
+    <img src="apple.png" alt="apple" height="100" width="130">
+</h4>
+
+</html>
