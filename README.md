@@ -14,7 +14,7 @@ Lecturer of course - [Mario Zahariev](https://www.linkedin.com/in/mario-zahariev
 
 ➡ [Functions](https://github.com/GeorgiJelev/python-fundamentals-softuni/tree/main/Function)
 
-➡ [List advanced]()
+➡ [List advanced](https://github.com/GeorgiJelev/python-fundamentals-softuni/tree/main/List%20Advanced)
 
 ➡ [Objects and Classes]()
 
