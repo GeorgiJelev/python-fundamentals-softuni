@@ -16,7 +16,7 @@ Lecturer of course - [Mario Zahariev](https://www.linkedin.com/in/mario-zahariev
 
 ➡ [List advanced](https://github.com/GeorgiJelev/python-fundamentals-softuni/tree/main/List%20Advanced)
 
-➡ [Objects and Classes]()
+➡ [Objects and Classes](https://github.com/GeorgiJelev/python-fundamentals-softuni/tree/main/%D0%95x%20Classes%20and%20Objects)
 
 ➡ [Dictionaries]()
 
